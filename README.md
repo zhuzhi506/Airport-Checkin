@@ -29,3 +29,4 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 [![](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/image.png)](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/image.png)
 ## 赞助我
 [![](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/img/%E4%B8%87%E8%83%BD%E6%94%B6%E6%AC%BE%E7%A0%81-%E8%8D%89%E3%81%AE%E5%8D%9A%E5%AE%A2.png)](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/img/%E4%B8%87%E8%83%BD%E6%94%B6%E6%AC%BE%E7%A0%81-%E8%8D%89%E3%81%AE%E5%8D%9A%E5%AE%A2.png)
+by
