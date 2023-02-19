@@ -21,7 +21,7 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 | TGUSERID  | 否  | Telegram推送人id  | 8xxxxxxxxx  |
 
 3. 转到`Actions`创建一个workflow，运行一次，以后每天项目都会自动运行。最后，可以到Run sign查看签到情况，同时也会通过Sever酱发送出去。
-## 参考
+## 参考 
 1. https://github.com/zhjc1124/ssr_autocheckin 用了他的机场签到代码。
 2. https://github.com/sirodeneko/genshin-sign 参考其Actions的yml。
 ~~（两个仓库均无许可证，让我有点蒙）~~
